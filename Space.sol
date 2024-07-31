@@ -24,7 +24,7 @@ contract Space is ERC1155TokenReceiver {
     );
 
     IBodhi public constant bodhi =
-        IBodhi(0x8920b2B8C488546B30106067894402992f9D09D7);
+        IBodhi(0x81Aa767E7977665ac124Fa6306FB76fc7A628A8E);
     uint256 public immutable spaceAssetId;
     address public immutable owner;
 
